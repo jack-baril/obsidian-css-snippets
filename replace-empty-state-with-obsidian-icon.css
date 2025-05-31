@@ -1,0 +1,13 @@
+.empty-state-title,
+.empty-state-action-list {
+  display: none;
+}
+
+.empty-state-container {
+  background-image: url("https://raw.githubusercontent.com/jack-baril/obsidian-css-snippets/main/assests/icons/obsidian-icon.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 25%;
+  height: 25%;
+}
